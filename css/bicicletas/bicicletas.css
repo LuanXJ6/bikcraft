@@ -28,7 +28,7 @@
   grid-area: 1/1;
 }
 
-.bicicleta-conteudo {
+.bicicletas-conteudo {
   display: grid;
   grid-template-columns: 1fr auto;
   align-items: start;
@@ -65,7 +65,7 @@
   align-items: center;
 }
 
-.bicicleta-conteudo img {
+.bicicletas-conteudo img {
   width: 24px;
   margin-right: 8px;
 }
